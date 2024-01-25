@@ -9,6 +9,6 @@ A CYOA game is a story where the reader makes choices at key points, determining
 
 #### To create your CYOA game in Python, you'll need:
 
-Basic Python knowledge: Understanding variables, conditional statements (if/else), and functions will be key.
-A creative story: What's the world you want to build? Who are your characters? What kind of choices will they face?
+Basic Python knowledge: Understanding variables, conditional statements (if/else), and functions will be key.  
+A creative story: What's the world you want to build? Who are your characters? What kind of choices will they face?  
 Text editor: Any basic text editor like Notepad or Sublime Text will do.
